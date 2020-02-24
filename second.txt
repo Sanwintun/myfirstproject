@@ -1,1 +1,4 @@
 second file is created for testing of rep
+
+
+It is updated from remote repository to test example of rep in git gui
